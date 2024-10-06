@@ -17,10 +17,7 @@
   <!-- Gitea -->
   <remote  name="gitea"
            fetch="https://git.keksla.wtf/" />
-
-  <!-- ART -->
-  <project path="art" name="android_art" remote="statix" />
-
+           
   <!-- Bionic-->
   <project path="bionic" name="android_bionic" remote="statix" />
 

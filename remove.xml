@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <!-- ART -->
-  <remove-project name="platform/art" />
   
   <!-- Bionic -->
   <remove-project name="platform/bionic" />
